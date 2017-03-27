@@ -1,0 +1,76 @@
+*** Connected to the database ***
+
+Part A
+
+Min Tuyet	120000
+Seth Carney	100000
+Chad Moore	100000
+Darren Lehmann	88000
+Graeme Dilly	120000
+John Bracewell	100000
+Gavin Larson	80000
+Philip Richards	80000
+Ricky Ponting	132000
+Richard Ellison	100000
+====================================
+Total Salary of all faculty: 1020000
+
+Part B
+
+MeritList created.
+
+Part C
+
+164776911	    Junior	201586985	4.0
+712952591	    Junior	463249547	3.98
+328718420	 Sophomore	997111094	3.96
+273277984	 Sophomore	386167477	3.9
+315967897	  Freshman	463249547	3.89
+466094162	    Senior	555010131	3.88
+722131306	    Senior	201586985	3.87
+164500920	    Senior	201586985	3.78
+483727101	    Senior	201586985	3.76
+296669559	 Sophomore	836826630	3.67
+163728111	 Sophomore	386167477	3.66
+449976666	 Sophomore	466388906	3.65
+170815037	  Freshman	466388906	3.56
+262891588	    Junior	555010131	3.5
+261812056	    Senior	463249547	3.48
+409508678	    Senior	997111094	3.47
+143293833	  Freshman	463249547	3.46
+203745018	    Junior	997111094	3.45
+895255243	    Senior	201586985	3.42
+905922853	  Freshman	466388906	3.4
+901511548	    Junior	201586985	3.32
+
+Part D
+
+update 463249547's salary from  100000 to  110000   10%
+update 386167477's salary from  100000 to  106000    6%
+update 201586985's salary from  120000 to  132000   10%
+update 466388906's salary from   88000 to   93280    6%
+update 997111094's salary from  100000 to  110000   10%
+update 555010131's salary from  120000 to  132000   10%
+update 836826630's salary from   80000 to   84800    6%
+
+Part E
+
+Min Tuyet	132000
+Seth Carney	106000
+Chad Moore	110000
+Darren Lehmann	93280
+Graeme Dilly	132000
+John Bracewell	100000
+Gavin Larson	80000
+Philip Richards	84800
+Ricky Ponting	132000
+Richard Ellison	110000
+====================================
+Total Salary of all faculty: 1080080
+
+Part F
+
+MeritList has been dropped.
+
+*** Connection closed ***
+
